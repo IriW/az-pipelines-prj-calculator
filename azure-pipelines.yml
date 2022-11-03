@@ -12,6 +12,9 @@ pool:
   - agent.name -equals desktop_dell_centos7
 
 steps:
+- script: 
+    yum -y install git
+
 - task: NodeTool@0
   inputs:
     versionSpec: '10.x'
