@@ -14,3 +14,5 @@ To build, simply:
 1. Runs `npm install` to install dependencies.
 2. Runs `npm test` to run Mocha and execute the unit tests.
 
+Azure DevOps latest build status
+[![Build Status](https://dev.azure.com/vzheshch/Agile%20Planning%20and%20Portfolio%20Management%20with%20Azure%20Boards/_apis/build/status/IriW.az-pipelines-prj-calculator?branchName=master)](https://dev.azure.com/vzheshch/Agile%20Planning%20and%20Portfolio%20Management%20with%20Azure%20Boards/_build/latest?definitionId=65&branchName=master)
